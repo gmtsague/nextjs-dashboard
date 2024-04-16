@@ -35,9 +35,9 @@ export default function Page() {
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           {/* Add Hero Images Here */}
-          <h1 className="text-blue-500">I'm blue!</h1>
+          <h1 className="text-blue-500">{"I'm blue!"}</h1>
           <hr></hr>
-          <h3 className="text-red-500">I'm blue!</h3>
+          <h3 className="text-red-500">{"I'm blue!"}</h3>
 
           <Image
         src="/hero-desktop.png"
